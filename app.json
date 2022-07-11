@@ -16,10 +16,6 @@
             "description": "Your Telegram Id",
             "value": "1884885842"
         },
-        "MAIN_CHANNEL": {
-            "description": "Main Channel Id",
-            "value": ""
-        },
         "LOG_CHANNEL": {
             "description": "Log Channel Id",
             "value": ""
@@ -32,24 +28,6 @@
             "description": "Your API_ID from https://my.telegram.org/apps ",
             "value": ""
         },
-        "MONGO_URI": {
-            "description": "mongo URL, Get it from mongodb.com",
-            "value": ""
-        },
-        "AUTH_USERS": {
-            "description": "Sudo User ids",
-            "value": ""
-        },
-        "HEROKU_API_KEY": {
-            "description": "Ur HEROKU_API fromm https://dashboard.heroku.com/account",
-            "value": ""
-        },
-        "HEROKU_APP_NAME": {
-            "description": "This App Name",
-            "value": ""
-        },
-        "FSUB": {
-            "description": "Force Sub Channel Username Without '@'",
             "value": ""
         },
         "API_HASH": {

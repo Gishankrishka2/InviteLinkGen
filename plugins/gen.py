@@ -1,6 +1,13 @@
 from pyrogram import *
 from pyrogram.errors import *
 
+'''
+Cmds
+
+/getlink or /getlink [any name]
+/invite or /invite [any name]
+
+'''
 
 @Client.on_message(filters.chat(-1001203589911) & filters.command(["getlink", "invite"]))
 async def link(bot, message):

@@ -1,7 +1,6 @@
 pyrogram
 telegraph
 tgcrypto
-aiofiles
 time
 random
 string

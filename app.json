@@ -1,7 +1,7 @@
 {
-    "name": "Memehub Bot",
-    "description": "Multi Function Pm Bot",
-    "repository": "https://github.com/Gishankrishka2/MultiPm",
+    "name": "IL Gn Bot",
+    "description": "Invite Link Generator",
+    "repository": "https://github.com/Gishankrishka2/InviteLinkGen",
     "logo": "https://telegra.ph/file/9f271ad6d291dac311b7d.jpg",
     "keywords": ["pyrogram",
                  "pyro",

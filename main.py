@@ -24,6 +24,7 @@ a = f"""
 @{uname} has been deployed!
 ➖➖➖➖➖➖➖➖➖➖
 Support: @AlphaTm_Botz_chat
+Support: @E_MONEY_LK_NEW
 ➖➖➖➖➖➖➖➖➖➖
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 """
